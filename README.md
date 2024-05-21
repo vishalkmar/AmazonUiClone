@@ -10,7 +10,7 @@ This project is a clone of the Amazon landing page, created using HTML and CSS. 
 - [Usage](#usage)
 
 ## ScreenShot
-
+![Amazon Landing Page UI Clone](./amaone.jpg)
 ## Features
 - Responsive design
 - Navbar with search bar
