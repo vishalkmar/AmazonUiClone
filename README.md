@@ -4,15 +4,12 @@
 This project is a clone of the Amazon landing page, created using HTML and CSS. The goal of this project is to replicate the look and feel of Amazon's landing page as closely as possible.
 
 ## Table of Contents
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Usage](#usage)
-- [License](#license)
 
-## Demo
-You can view a live demo of the Amazon Landing Page UI Clone [here](#).
+## ScreenShot
 
 ## Features
 - Responsive design
